@@ -1,3 +1,4 @@
+//sample-jquery-json-table.js
 function formatUsDollar(name) {
     var cents = 0;
     var part = "";
